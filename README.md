@@ -1,2 +1,2 @@
 # tools-for-data-science
-Assignment documents for the IBM Tools for Data Science course
+Publicly accessible assignment documents for the IBM Tools for Data Science course
